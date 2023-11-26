@@ -265,7 +265,7 @@ http://192.168.2.1:4022/rtp/239.76.254.59:9000
 http://192.168.2.1:4022/rtp/239.76.254.61:9000
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
 http://192.168.2.1:4022/rtp/239.76.254.62:9000
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",先锋乒羽
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽11" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",先锋乒羽11
 http://192.168.2.1:4022/rtp/239.76.253.51:9000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
 http://192.168.2.1:4022/rtp/239.76.253.61:9000
