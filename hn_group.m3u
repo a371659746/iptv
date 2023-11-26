@@ -269,7 +269,7 @@ http://192.168.2.1:4022/rtp/239.76.254.62:9000
 http://192.168.2.1:4022/rtp/239.76.253.51:9000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
 http://192.168.2.1:4022/rtp/239.76.253.61:9000
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事11
 http://192.168.2.1:4022/rtp/239.76.253.76:9000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",书画
 http://192.168.2.1:4022/rtp/239.76.253.77:9000
