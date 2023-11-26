@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="湖南卫视超清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南卫视超清
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视超清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南卫视超清
 http://192.168.2.1:4022/rtp/239.76.253.100:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南高清",湖南卫视高清
 http://192.168.2.1:4022/rtp/239.76.252.115:9000
