@@ -285,4 +285,6 @@ http://192.168.2.1:4022/rtp/239.76.252.181:9000
 http://192.168.2.1:4022/rtp/239.76.252.227:9000
 #EXTINF:-1 ,活动直播3
 http://192.168.2.1:4022/rtp/239.76.252.228:9000
+#EXTINF:-1 ,香港卫视1
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
